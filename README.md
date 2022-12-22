@@ -1,6 +1,7 @@
 # Bash Scripts Task
 The task is to solve 3 questions in Bash Scripts.
 [![](https://cdn.pixabay.com/photo/2013/07/13/11/43/tux-158547__480.png)](https://cdn.pixabay.com/photo/2013/07/13/11/43/tux-158547__480.png)
+
 ## Question 1
 Write a bash script that collects two numbers from the user and then
 prints a message if these two numbers are smaller or greater than 100.
