@@ -1,5 +1,6 @@
 # Bash Scripts Task
 The task is to solve 3 questions in Bash Scripts.
+
 [![](https://cdn.pixabay.com/photo/2013/07/13/11/43/tux-158547__480.png)](https://cdn.pixabay.com/photo/2013/07/13/11/43/tux-158547__480.png)
 
 ## Question 1
